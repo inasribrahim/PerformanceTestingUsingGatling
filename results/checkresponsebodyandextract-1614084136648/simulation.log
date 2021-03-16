@@ -1,0 +1,5 @@
+RUN	CheckResponseBodyAndExtract		checkresponsebodyandextract	1614084136648	 	2.0
+USER	Check Response and extractInfo using XPATH 	1	START	1614084138214	1614084138214
+REQUEST	Check Response and extractInfo using XPATH 	1		GET All videogames	1614084138262	1614084140356	OK	 
+REQUEST	Check Response and extractInfo using XPATH 	1		Get A specfic name using previous varible name`s gameId	1614084140645	1614084140706	KO	jsonPath($.name).find.is(Resident Evil 4), but actually found Gran Turismo 3
+USER	Check Response and extractInfo using XPATH 	1	END	1614084138214	1614084140722

@@ -1,0 +1,10 @@
+{
+  "simulation": "RampUsers",
+  "simulationId": "rampusers",
+  "start": 1614255181326,
+  "description": "",
+  "scenarios": ["Video games DB"],
+  "assertions": [
+
+  ]
+}

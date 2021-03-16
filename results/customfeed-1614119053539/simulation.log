@@ -1,0 +1,8 @@
+RUN	CustomFeed		customfeed	1614119053539	 	2.0
+USER	Video Game DB	1	START	1614119055715	1614119055715
+GROUP	Failed to build request Post New Game : No attribute named 'releaseDate' is defined 	1614119055894
+GROUP	Failed to build request Post New Game : No attribute named 'releaseDate' is defined 	1614119056943
+GROUP	Failed to build request Post New Game : No attribute named 'releaseDate' is defined 	1614119057940
+GROUP	Failed to build request Post New Game : No attribute named 'releaseDate' is defined 	1614119058949
+GROUP	Failed to build request Post New Game : No attribute named 'releaseDate' is defined 	1614119059954
+USER	Video Game DB	1	END	1614119055715	1614119060954

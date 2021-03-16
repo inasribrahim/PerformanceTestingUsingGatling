@@ -1,0 +1,8 @@
+RUN	CustomFeed		customfeed	1614119206094	 	2.0
+USER	Video Game DB	1	START	1614119208585	1614119208585
+GROUP	Failed to build request Post New Game : No attribute named 'releaseReviw' is defined 	1614119209041
+GROUP	Failed to build request Post New Game : No attribute named 'releaseReviw' is defined 	1614119210098
+GROUP	Failed to build request Post New Game : No attribute named 'releaseReviw' is defined 	1614119211105
+GROUP	Failed to build request Post New Game : No attribute named 'releaseReviw' is defined 	1614119212108
+GROUP	Failed to build request Post New Game : No attribute named 'releaseReviw' is defined 	1614119213097
+USER	Video Game DB	1	END	1614119208585	1614119214117

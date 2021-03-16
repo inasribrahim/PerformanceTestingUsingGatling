@@ -1,0 +1,10 @@
+{
+  "simulation": "CodeReuseWithObjectAndLoop",
+  "simulationId": "codereusewithobjectandloop",
+  "start": 1614111420638,
+  "description": "",
+  "scenarios": ["Videogames DB "],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "CheckResponseBodyAndExtract",
+  "simulationId": "checkresponsebodyandextract",
+  "start": 1614100186859,
+  "description": "",
+  "scenarios": ["Check Response and extractInfo using XPATH "],
+  "assertions": [
+
+  ]
+}

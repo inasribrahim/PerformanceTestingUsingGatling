@@ -1,0 +1,5 @@
+RUN	CheckResponseBodyAndExtract		checkresponsebodyandextract	1614100186859	 	2.0
+USER	Check Response and extractInfo using XPATH 	1	START	1614100188297	1614100188297
+REQUEST	Check Response and extractInfo using XPATH 	1		GET All videogames	1614100188360	1614100191525	KO	jsonPath($[0r].id).find.exists failed, could not extract:  could not extract : `]' expected but `r' found
+GROUP	Failed to build request Get A specfic name using previous varible name`s gameId: No attribute named 'gameId' is defined 	1614100191726
+USER	Check Response and extractInfo using XPATH 	1	END	1614100188297	1614100191748

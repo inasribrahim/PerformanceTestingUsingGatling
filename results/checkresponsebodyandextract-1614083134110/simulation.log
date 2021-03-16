@@ -1,0 +1,4 @@
+RUN	CheckResponseBodyAndExtract		checkresponsebodyandextract	1614083134110	 	2.0
+REQUEST	Check Response and extractInfo using XPATH 	1		GET a Specfic game 	1614083137839	1614083137839	KO	j.n.UnknownHostException: locallhost
+USER	Check Response and extractInfo using XPATH 	1	END	1614083137658	1614083137911
+USER	Check Response and extractInfo using XPATH 	1	START	1614083137658	1614083137658

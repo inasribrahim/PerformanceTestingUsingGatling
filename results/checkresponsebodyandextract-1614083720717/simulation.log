@@ -1,0 +1,4 @@
+RUN	CheckResponseBodyAndExtract		checkresponsebodyandextract	1614083720717	 	2.0
+USER	Check Response and extractInfo using XPATH 	1	START	1614083722213	1614083722213
+REQUEST	Check Response and extractInfo using XPATH 	1		GET a Specfic game 	1614083722263	1614083724375	KO	jsonPath($[1].id).find.is(1), but actually found nothing
+USER	Check Response and extractInfo using XPATH 	1	END	1614083722213	1614083724592

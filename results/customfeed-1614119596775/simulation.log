@@ -1,0 +1,58 @@
+RUN	CustomFeed		customfeed	1614119596775	 	2.0
+USER	Video Game DB	1	START	1614119600088	1614119600088
+GROUP	Failed to build request Post New Game : Failed to build request: CompletionException: io.gatling.core.session.el.ElParserException: Failed to parse {
+  "id": ${gameId},
+  "name": "${name{",
+  "releaseDate": "${releaseDate}",
+  "reviewScore": ${releaseReviw},
+  "category": "${category}",
+  "rating": "${rating}"
+}
+
+
+ with error '`}' expected but `{' found' 	1614119600351
+GROUP	Failed to build request Post New Game : Failed to build request: CompletionException: io.gatling.core.session.el.ElParserException: Failed to parse {
+  "id": ${gameId},
+  "name": "${name{",
+  "releaseDate": "${releaseDate}",
+  "reviewScore": ${releaseReviw},
+  "category": "${category}",
+  "rating": "${rating}"
+}
+
+
+ with error '`}' expected but `{' found' 	1614119601440
+GROUP	Failed to build request Post New Game : Failed to build request: CompletionException: io.gatling.core.session.el.ElParserException: Failed to parse {
+  "id": ${gameId},
+  "name": "${name{",
+  "releaseDate": "${releaseDate}",
+  "reviewScore": ${releaseReviw},
+  "category": "${category}",
+  "rating": "${rating}"
+}
+
+
+ with error '`}' expected but `{' found' 	1614119602448
+GROUP	Failed to build request Post New Game : Failed to build request: CompletionException: io.gatling.core.session.el.ElParserException: Failed to parse {
+  "id": ${gameId},
+  "name": "${name{",
+  "releaseDate": "${releaseDate}",
+  "reviewScore": ${releaseReviw},
+  "category": "${category}",
+  "rating": "${rating}"
+}
+
+
+ with error '`}' expected but `{' found' 	1614119603447
+GROUP	Failed to build request Post New Game : Failed to build request: CompletionException: io.gatling.core.session.el.ElParserException: Failed to parse {
+  "id": ${gameId},
+  "name": "${name{",
+  "releaseDate": "${releaseDate}",
+  "reviewScore": ${releaseReviw},
+  "category": "${category}",
+  "rating": "${rating}"
+}
+
+
+ with error '`}' expected but `{' found' 	1614119604458
+USER	Video Game DB	1	END	1614119600088	1614119605458

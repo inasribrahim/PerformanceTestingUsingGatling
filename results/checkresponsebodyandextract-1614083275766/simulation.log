@@ -1,0 +1,4 @@
+RUN	CheckResponseBodyAndExtract		checkresponsebodyandextract	1614083275766	 	2.0
+USER	Check Response and extractInfo using XPATH 	1	START	1614083276982	1614083276982
+REQUEST	Check Response and extractInfo using XPATH 	1		GET a Specfic game 	1614083277036	1614083277079	OK	 
+USER	Check Response and extractInfo using XPATH 	1	END	1614083276982	1614083277312

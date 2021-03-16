@@ -1,0 +1,5 @@
+RUN	CheckResponseBodyAndExtract		checkresponsebodyandextract	1614101271284	 	2.0
+USER	Check Response and extractInfo using XPATH 	1	START	1614101273247	1614101273247
+REQUEST	Check Response and extractInfo using XPATH 	1		GET All videogames	1614101273323	1614101275519	OK	 
+REQUEST	Check Response and extractInfo using XPATH 	1		Get A specfic name using previous varible name`s gameId	1614101275760	1614101275797	OK	 
+USER	Check Response and extractInfo using XPATH 	1	END	1614101273247	1614101275805

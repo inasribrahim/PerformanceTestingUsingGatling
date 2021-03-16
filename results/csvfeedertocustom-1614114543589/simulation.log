@@ -1,0 +1,13 @@
+RUN	CsvFeederToCustom		csvfeedertocustom	1614114543589	 	2.0
+USER	Video Game DB	1	START	1614114545964	1614114545964
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114546047	1614114550195	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114551210	1614114551335	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114552340	1614114552363	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114553369	1614114553470	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114554473	1614114554484	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114555471	1614114555638	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114556642	1614114556673	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114557674	1614114558215	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114559219	1614114559271	KO	status.find.is(200), but actually found 404
+REQUEST	Video Game DB	1		GET A Specfic video game	1614114560284	1614114560341	KO	status.find.is(200), but actually found 404
+USER	Video Game DB	1	END	1614114545964	1614114561344

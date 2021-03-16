@@ -1,0 +1,6 @@
+RUN	CheckResponeCode		checkresponecode	1614082455122	 	2.0
+USER	video Games DB 	1	START	1614082456784	1614082456784
+REQUEST	video Games DB 	1		GET all video Games 1-st call	1614082456841	1614082459720	KO	status.find.is(200), but actually found 404
+REQUEST	video Games DB 	1		GET a Specfic videogame 	1614082459778	1614082459829	OK	 
+REQUEST	video Games DB 	1		Get a All games 2nd  call 	1614082459832	1614082459863	OK	 
+USER	video Games DB 	1	END	1614082456784	1614082459867

@@ -1,0 +1,13 @@
+RUN	CsvFeeder		csvfeeder	1614112164983	 	2.0
+USER	Videogames DB 	1	START	1614112166800	1614112166800
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112166895	1614112167051	OK	 
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112168067	1614112168093	OK	 
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112169095	1614112169261	OK	 
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112170266	1614112170487	KO	jsonPath($.name).find.is(Super Mairo 64), but actually found Super Mario 64
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112171476	1614112171484	OK	 
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112172495	1614112172507	OK	 
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112173518	1614112173528	OK	 
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112174525	1614112174560	KO	jsonPath($.name).find.is(Super Mairo 64), but actually found Super Mario 64
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112175554	1614112175579	OK	 
+REQUEST	Videogames DB 	1		GET A Specfic videoGame	1614112176588	1614112176620	OK	 
+USER	Videogames DB 	1	END	1614112166800	1614112177618

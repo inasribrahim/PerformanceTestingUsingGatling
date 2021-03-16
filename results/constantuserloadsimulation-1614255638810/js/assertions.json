@@ -1,0 +1,10 @@
+{
+  "simulation": "ConstantUserLoadSimulation",
+  "simulationId": "constantuserloadsimulation",
+  "start": 1614255638810,
+  "description": "",
+  "scenarios": ["Video games DB"],
+  "assertions": [
+
+  ]
+}
